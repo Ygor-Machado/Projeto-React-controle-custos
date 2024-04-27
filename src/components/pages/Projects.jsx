@@ -1,10 +1,10 @@
-function Contact() {
+function Projects() {
     return (
       <div>
-        <h1>Contato</h1>
+        <h1>Projeto</h1>
         <p>Seja bem-vindo!</p>
       </div>
     )
   }
   
-  export default Contact;
+  export default Projects;
