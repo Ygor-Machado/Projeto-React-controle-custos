@@ -8,33 +8,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 10800,
-      "services": [
-        {
-          "name": "Contratar dev PHP",
-          "cost": "5000",
-          "description": "Fazer o backend",
-          "id": "0a52fb9a-5b65-4f9d-b0f6-d1e299dd5f57"
-        },
-        {
-          "name": "Contratar dev PHP",
-          "cost": "5000",
-          "description": "Fazer o backend",
-          "id": "0a52fb9a-5b65-4f9d-b0f6-d1e299dd5f57"
-        },
-        {
-          "name": "Contratar dev java",
-          "cost": "300",
-          "description": "Algo",
-          "id": "89134eb6-c794-4735-959e-4aeaa2956659"
-        },
-        {
-          "name": "Contratar dev Ruby",
-          "cost": "500",
-          "description": "Ajudar",
-          "id": "4fbdc77d-13cb-43be-9f23-d965ce84adc0"
-        }
-      ]
+      "cost": 0,
+      "services": []
     },
     {
       "id": "24c9",
