@@ -8,7 +8,7 @@ import Loading from "../layout/Loading";
 import LinkButton from "../layout/LinkButton";
 import ProjectCard from "../project/ProjectCard";
 
-import styles from './Project.module.css';
+import styles from './Projects.module.css';
 
 function Projects() {
 
