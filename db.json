@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": "792a",
-      "name": "Projeto MVC",
-      "budget": "20000",
+      "name": "Projeto MVC simples",
+      "budget": "25000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -13,11 +13,11 @@
     },
     {
       "id": "24c9",
-      "name": "Projeto Clean Architeture",
-      "budget": "20000",
+      "name": "Projeto Clean Architeture Simples ",
+      "budget": "22000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": []
