@@ -19,19 +19,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 200,
+      "cost": 100,
       "services": [
         {
           "name": "Algo",
           "cost": "100",
           "description": "algo",
           "id": "09b435b6-7ee9-4346-9506-e6a5a9971180"
-        },
-        {
-          "name": "Algo 2",
-          "cost": "100",
-          "description": "algo",
-          "id": "606bddf8-0516-4833-99b5-a74efa4d8d5b"
         }
       ]
     }
